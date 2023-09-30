@@ -10,11 +10,11 @@ var fg = new Image();
 var pipeNorth = new Image();
 var pipeSouth = new Image();
 
-bird.src = "img/bird.png";
-bg.src = "img/bg.png";
-fg.src = "img/fg.png";
-pipeNorth.src = "img/pipeNorth.png";
-pipeSouth.src = "img/pipeSouth.png";
+bird.src = "bird.png";
+bg.src = "bg.png";
+fg.src = "fg.png";
+pipeNorth.src = "pipeNorth.png";
+pipeSouth.src = "pipeSouth.png";
 
 // some variables
 var gap = 85;
