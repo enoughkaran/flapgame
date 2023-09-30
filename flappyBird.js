@@ -11,7 +11,7 @@ var pipeNorth = new Image();
 var pipeSouth = new Image();
 
 bird.src = "bird.png";
-bg.src = "bg.png";
+bg.src = "bg.jpg";
 fg.src = "fg.png";
 pipeNorth.src = "pipeNorth.png";
 pipeSouth.src = "pipeSouth.png";
